@@ -23,3 +23,19 @@ public final class Main {
     RobotBase.startRobot(Robot::new);
   }
 }
+/**Bismillahirrahmanirrahim
+
+Elhamdulillâhi rabbil'alemin
+
+Errahmânir'rahim
+
+Mâliki yevmiddin
+
+İyyâke na'budu Ve iyyâke neste'în
+
+İhdinessirâtal mustakîm
+
+Sirâtallezine en'amte aleyhim
+
+Ğayrilmağdûbi aleyhim ve leddâllîn 
+*/
